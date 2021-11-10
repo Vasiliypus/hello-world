@@ -1,2 +1,2 @@
 # hello-world
-learn
+acquaintance with git
